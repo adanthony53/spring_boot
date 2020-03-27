@@ -1,6 +1,5 @@
 package com.example.controller;
 
-
 import com.example.entity.Student;
 import com.example.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
